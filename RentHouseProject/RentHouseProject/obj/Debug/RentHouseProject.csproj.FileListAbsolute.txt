@@ -1,0 +1,4 @@
+C:\Users\asus\source\repos\RentHouseProject\RentHouseProject\obj\Debug\RentHouseProject.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\RentHouseProject\RentHouseProject\obj\Debug\RentHouseProject.Properties.Resources.resources
+C:\Users\asus\source\repos\RentHouseProject\RentHouseProject\obj\Debug\RentHouseProject.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\RentHouseProject\RentHouseProject\obj\Debug\RentHouseProject.csproj.CoreCompileInputs.cache
